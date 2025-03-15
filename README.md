@@ -5,6 +5,6 @@ This repository documents a rotating magnet setup that uses a stepper motor to p
 The project is divided into three main chapters:
 
 **1. Parts & Assembly** – Component list, STP and SLDASM files of the entire assembly, SLDPRT files of all parts, DXF files for lasercutting, STL files for 3D printing.  
-**2. Electronics** – Introduction electronic componets, wiring diagram, Arduino code, Nextion communication protocol, Nextion code.  
+**2. Electronics** – Introduction to the electronic componets used, wiring diagram, Arduino code, Nextion communication protocol, Nextion code.  
 **3. Magnets** – Field-shaping algorithm.
 
